@@ -11,7 +11,8 @@ The operation starts from the `BASECALLS_DIR`, that contains the actual intensit
 `BCL` files. For example the basic structure of such file will be 
 
 ::
-    ➜  slide-seq-pipeline git:(main) ls /home/hsarkar/code/slide-seq-data/P25255/220329_A00689_0513_BHYK23DRXY/
+    
+        ➜slide-seq-pipeline git:(main) ls /home/hsarkar/code/slide-seq-data/P25255/220329_A00689_0513_BHYK23DRXY/
         Config            InterOp                 Recipe           RunInfo.xml        SequenceComplete.txt
         CopyComplete.txt  Logs                    RTA3.cfg         runParameters.xml  Thumbnail_Images
         Data              P25255_SampleSheet.txt  RTAComplete.txt  RunParameters.xml
