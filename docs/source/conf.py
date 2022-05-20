@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'slide-seq-pipeline'
+copyright = '2022, Kharchenko'
+author = 'Hirak'
 
 release = '0.1'
 version = '0.1.0'
