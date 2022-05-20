@@ -22,5 +22,5 @@ Contents
    :maxdepth: 2
 
    pipeline.rst
-   usage.rst
    recovery.rst
+   usage.rst
