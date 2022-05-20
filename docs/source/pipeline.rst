@@ -12,7 +12,7 @@ The operation starts from the `BASECALLS_DIR`, that contains the actual intensit
 
 ::
     ➜  slide-seq-pipeline git:(main) ls /home/hsarkar/code/slide-seq-data/P25255/220329_A00689_0513_BHYK23DRXY/
-    Config            InterOp                 Recipe           RunInfo.xml        SequenceComplete.txt
-    CopyComplete.txt  Logs                    RTA3.cfg         runParameters.xml  Thumbnail_Images
-    Data              P25255_SampleSheet.txt  RTAComplete.txt  RunParameters.xml
+        Config            InterOp                 Recipe           RunInfo.xml        SequenceComplete.txt
+        CopyComplete.txt  Logs                    RTA3.cfg         runParameters.xml  Thumbnail_Images
+        Data              P25255_SampleSheet.txt  RTAComplete.txt  RunParameters.xml
 
