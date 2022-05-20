@@ -1,10 +1,12 @@
-Welcome to Lumache's documentation!
+Welcome to slide-seq-pipeline documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**slide-seq-pipeline** This pipeline replicates most of the stuff provided in `official slide-seq <https://github.com/MacoskoLab/slideseq-tools>` except 
+the dependence to the google sheet and assumed internal file/folder location. We lack some of the generalization as these scripts 
+are meant to run on a local machine. I would highly recommend installing the actual package since some of the functions are directly used 
+in this repo.   
+
+
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
@@ -17,6 +19,8 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   pipeline.rst
+   usage.rst
+   recovery.rst
