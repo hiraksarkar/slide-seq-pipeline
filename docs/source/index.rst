@@ -23,4 +23,3 @@ Contents
 
    pipeline.rst
    recovery.rst
-   usage.rst
