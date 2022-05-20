@@ -22,4 +22,5 @@ Contents
    :maxdepth: 2
 
    pipeline.rst
+   notebooks/preprocess
    recovery.rst
