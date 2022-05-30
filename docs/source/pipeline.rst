@@ -5,7 +5,7 @@ Pre-requisite softwares
 
 To run the pipeline successfully one needs to install/download several third-party tools.
 
-Tools
+**Tools**
 
 - `Picard tools <https://broadinstitute.github.io/picard/>`_
 - `Dropseq tools <https://github.com/broadinstitute/Drop-seq/tree/v2.5.1>`_
