@@ -1,0 +1,6 @@
+include src/slideseq/config.yaml
+include src/slideseq/scripts/demultiplex.sh
+include src/slideseq/scripts/alignment.sh
+include src/slideseq/scripts/processing.sh
+include src/slideseq/scripts/downsampling.sh
+include src/slideseq/scripts/build_reference.sh

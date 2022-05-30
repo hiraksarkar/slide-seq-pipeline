@@ -1,0 +1,9 @@
+picard: /home/hsarkar/code/slideseq-tools/soft/picard/build/libs/picard.jar
+dropseq_dir: /home/hsarkar/code/slideseq-tools/soft/Drop-seq_tools-2.5.1
+reference_dir: /broad/macosko/reference
+workflow_dir: /broad/macosko/data/workflows/flowcell
+library_dir: /broad/macosko/data/libraries
+gsecret_name: 'projects/velina-208320/secrets/sequencing-credentials/versions/latest'
+gsheet_id: 1kwnKrkbl80LyE9lND0UZZJXipL4yfBbGjkTe6hcwJic
+worksheet: 'Experiment Log'
+gs_path: macosko_data/libraries
