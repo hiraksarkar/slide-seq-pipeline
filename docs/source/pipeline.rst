@@ -51,6 +51,8 @@ is provided in `spreadsheet` folder of the repo.
 
 
 **Desctiption**
+
+
 library: Name of the library (Each puck will have a specic name)
 puckcaller_path: A location containing the files from the image analysis pipeline, ``BeasBarcodes.txt`` and ``BeadLocations.txt``
 run_name: Depends on how many different runs we are having
@@ -59,6 +61,8 @@ sample_barcod: It's a 8bp barcode that can be obtained from  ``RunInfo.xml`` fil
 reference: The actual reference file I used ``GRCh38.fasta``
 bead_structure: Determines the actual length of the cell barcode and the corresponding UMI
 
-**Cosntructio**
+**Cosntruction**
+
+
 The construction of the dataframe with the help of the ``RunInfo.xml`` is depicted in the
 next embedded notebook.
