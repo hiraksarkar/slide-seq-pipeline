@@ -23,4 +23,4 @@ Contents
 
    pipeline.rst
    notebooks/preprocess
-   recovery.rst
+   notebooks/recovery
